@@ -10,4 +10,5 @@ https://github.com/duartelaia
 
 ## Final grade:
 Project1: 18/20
+
 Project2: 18/20
